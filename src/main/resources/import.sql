@@ -1,0 +1,2 @@
+INSERT INTO ENTITY(ID, TYPE) VALUES (1, 'Concrete');
+
